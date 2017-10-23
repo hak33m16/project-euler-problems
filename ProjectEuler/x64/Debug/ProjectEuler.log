@@ -1,0 +1,5 @@
+﻿  euler.cpp
+c:\users\hakeem\documents\visual studio 2015\projects\projecteuler\projecteuler\euler.cpp(96): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
+c:\users\hakeem\documents\visual studio 2015\projects\projecteuler\projecteuler\euler.cpp(158): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ProjectEuler.vcxproj -> C:\Users\Hakeem\documents\visual studio 2015\Projects\ProjectEuler\x64\Debug\ProjectEuler.exe
+  ProjectEuler.vcxproj -> C:\Users\Hakeem\documents\visual studio 2015\Projects\ProjectEuler\x64\Debug\ProjectEuler.pdb (Partial PDB)
